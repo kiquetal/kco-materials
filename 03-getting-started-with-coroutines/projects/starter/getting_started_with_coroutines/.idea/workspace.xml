@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf02c950-bb1c-41a8-a67d-bfd4225a9489" name="Default" comment="" />
+    <list default="true" id="bf02c950-bb1c-41a8-a67d-bfd4225a9489" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,25 @@
         <task path="$PROJECT_DIR$/main">
           <activation />
         </task>
-        <projects_view />
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="getting_started_with_coroutines" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="getting_started_with_coroutines" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -536,7 +556,7 @@
       <workItem from="1538381388423" duration="4025000" />
       <workItem from="1538909017396" duration="1406000" />
       <workItem from="1538912245172" duration="154000" />
-      <workItem from="1650054068595" duration="402000" />
+      <workItem from="1650054068595" duration="711000" />
     </task>
     <servers />
   </component>
